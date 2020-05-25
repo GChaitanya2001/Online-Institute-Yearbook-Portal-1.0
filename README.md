@@ -67,20 +67,26 @@ Check this link:[https://confluence.atlassian.com/bitbucket/clone-a-repository-2
 For that first open the MySQL 8.0 command line client.Now,create a database with name 'yearbook',by executing the following command,
 
     mysql > create database yearbook
-Now,open windows command prompt in administrator mode and navigate to bin folder of MySQL Server 8.0.Now execute the following command,
+ Now,open windows command prompt in administrator mode and navigate to bin folder of MySQL Server 8.0.Now execute the following command,
 
     C:\Program Files\MySQL\MySQL Server 8.0\bin > mysql -u root -p yearbook < "path to required yearbook_db.sql file"
 
    Refer this link:[https://www.youtube.com/watch?v=HYVW5RlM6b0](https://www.youtube.com/watch?v=HYVW5RlM6b0)
 
-7)Navigate to the dist folder of the web app`/Online Institute Yearbook Portal/dist/`from cloned repository,Copy the .war file.
+7)Navigate to the dist folder of the web app`from cloned repository,Copy the .war file.
  Now,navigate to webapps`folder of the Apache tomcat and paste the war file there.Then,start the web server from the tomcat9.0w.exe file of  bin folder from Apache Tomcat 9.0 software.
  Now the .war file must have been extracted as soon as the server starts.
 Refer this link:[https://www.youtube.com/watch?v=jZL33Hggf-I](https://www.youtube.com/watch?v=jZL33Hggf-I)
 
 8)The web application can be accessed from [https://localhost:8082/Online_Institute_Yearbook_Portal/](http://localhost:8082/Online_Institute_Yearbook_Portal/). In my case the port number is 8082,try with your port number.
 
-9)
+9)The Admin credentials are hardcoded into the database,
+
+username: adminlog ;
+
+password: adminhero ;
+
+10)Some user accounts are already hardcoded into the database file.Use MySQL workbench to avail them.
  
 ## Features
 List of features ready and TODOs for future developme
