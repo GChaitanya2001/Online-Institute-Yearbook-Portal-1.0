@@ -49,9 +49,16 @@ Refer this link:[https://www.youtube.com/watch?v=pKMgr8uNvGM&t=271s](https://www
 
 4)Now,install MySQL database,and the port will be set to 3306,which is default.
 Set the username and password as follows to avoid errors while connecting:
-username: root
+
+username: root ;
+
 password: root
+
 Refer this link:[https://www.youtube.com/watch?v=WuBcTJnIuzo](https://www.youtube.com/watch?v=WuBcTJnIuzo)
+
+or 
+
+[https://www.codejava.net/servers/tomcat/how-to-deploy-a-java-web-application-on-tomcat](https://www.codejava.net/servers/tomcat/how-to-deploy-a-java-web-application-on-tomcat)
 
 5)Now, clone the git repository.
 Check this link:[https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html](https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html)
@@ -71,10 +78,12 @@ Now,open windows command prompt in administrator mode and navigate to bin folder
  Now the .war file must have been extracted as soon as the server starts.
 Refer this link:[https://www.youtube.com/watch?v=jZL33Hggf-I](https://www.youtube.com/watch?v=jZL33Hggf-I)
 
-8)The web application can be accessed from [https://localhost:8082/Online_Institute_Yearbook_Portal/](http://localhost:8082/Online_Institute_Yearbook_Portal/),if the port number is 8082 ,else try with the port number that you have set.
+8)The web application can be accessed from [https://localhost:8082/Online_Institute_Yearbook_Portal/](http://localhost:8082/Online_Institute_Yearbook_Portal/). In my case the port number is 8082,try with your port number.
+
+9)
  
 ## Features
-List of features ready and TODOs for future development
+List of features ready and TODOs for future developme
 *  All the features are implemented that are required for Yearbook portal
 
 To-do list:
