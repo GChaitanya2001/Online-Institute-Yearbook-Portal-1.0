@@ -22,7 +22,7 @@
 The manual process of recording these achievements and the award/scholarship issue process is obviously time-consuming and its maintenance is undeniably difficult.Usually,one should go to the academic section of the institute,in order to apply for an award or a scholarship and had to go through a tiring process.
 
 ## Screenshots
-![Hello]
+![Hello](https://github.com/GChaitanya2001/Online-Institute-Yearbook-Portal-1.0/blob/master/Screenshots/Login%20Page.png)
 
 ## Technologies
 * Tech 1 - Java 8 SE Development Kit
