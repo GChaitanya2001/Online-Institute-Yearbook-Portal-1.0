@@ -8,9 +8,6 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
 -   For every institution,the achievements achieved by it’s student community and by its teaching staff is remarkable.
@@ -95,11 +92,3 @@ List of features ready and TODOs for future developme
 To-do list:
 * The Registration can be confirmed via Email Verification.
 * While Students/Teachers Add Achievements,they can also upload their work they have done which may be helpful.
-## Status
-This is the first-version of Online Institute Yearbook Portal.
-
-## Inspiration
-The manual process of recording achievements and the Award/Scholarship issuing process is heuristic . An Online Web Application makes it easy to maintain and handle this recording process.
-
-## Contact
-Created by [@chaitanya6575@gmail.com]-Contact me if there are any issues.
